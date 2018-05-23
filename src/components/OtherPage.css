@@ -1,0 +1,13 @@
+.main-view {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  background-color: #9feaf9;
+  width: 50vw;
+  border: 5px solid transparent;
+}
+
+h2 {
+  color: #2f3340;
+}
